@@ -2,6 +2,6 @@ package konflikt;
 
 public class Konflikt {
 	public static void main(String[] args) {
-	    System.out.println("Wybierz czerwona pigulke");
+	    System.out.println("Wybierz fioletowa pigulke");
 }
 }
